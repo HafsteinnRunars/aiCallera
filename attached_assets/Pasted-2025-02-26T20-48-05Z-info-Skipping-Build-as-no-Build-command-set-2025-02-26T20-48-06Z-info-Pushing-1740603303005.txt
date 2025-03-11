@@ -1,0 +1,68 @@
+2025-02-26T20:48:05Z info: Skipping Build as no Build command set
+2025-02-26T20:48:06Z info: Pushing pid1 binary layer...
+2025-02-26T20:48:08Z info: Created pid1 binary layer
+2025-02-26T20:48:08Z info: Pushing Repl layer...
+2025-02-26T20:48:08Z info: Pushing hosting layer...
+2025-02-26T20:48:08Z info: Retrieved cached nix layer
+2025-02-26T20:48:09Z info: Created hosting layer
+2025-02-26T20:48:10Z info: Created Repl layer
+2025-02-26T20:48:11Z info: Pushed image manifest
+2025-02-26T20:48:11Z info: Pushed soci index manifest
+2025-02-26T20:48:16Z info: Creating Autoscale service
+Missing required environment variables
+> node index.js
+npm notice To update run: npm install -g npm@11.1.0
+npm notice
+forwarding local port 8000 to external port 80
+command finished with error [sh -c npm run start]: exit status 1
+> nodejs@1.0.0 start
+> node index.js
+{"level":50,"time":1740602928327,"pid":37,"hostname":"localhost","err":{"type":"Error","message":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID","stack":"Error: Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID\n    at registerInboundRoutes (file:///home/runner/workspace/inbound-calls.js:9:11)\n    at start (file:///home/runner/workspace/index.js:30:11)\n    at file:///home/runner/workspace/index.js:48:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:122:5)"},"msg":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID"}
+command finished with error [sh -c npm run start]: exit status 1
+Missing required environment variables
+> nodejs@1.0.0 start
+> node index.js
+> nodejs@1.0.0 start
+starting up user application
+npm notice New major version of npm available! 10.8.2 -> 11.1.0
+> node index.js
+> nodejs@1.0.0 start
+{"level":50,"time":1740602929505,"pid":94,"hostname":"localhost","err":{"type":"Error","message":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID","stack":"Error: Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID\n    at registerInboundRoutes (file:///home/runner/workspace/inbound-calls.js:9:11)\n    at start (file:///home/runner/workspace/index.js:30:11)\n    at file:///home/runner/workspace/index.js:48:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:122:5)"},"msg":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID"}
+npm notice
+Missing required environment variables
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.1.0
+{"level":50,"time":1740602928916,"pid":65,"hostname":"localhost","err":{"type":"Error","message":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID","stack":"Error: Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID\n    at registerInboundRoutes (file:///home/runner/workspace/inbound-calls.js:9:11)\n    at start (file:///home/runner/workspace/index.js:30:11)\n    at file:///home/runner/workspace/index.js:48:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:122:5)"},"msg":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID"}
+command finished with error [sh -c npm run start]: exit status 1
+Missing required environment variables
+Missing required environment variables
+command finished with error [sh -c npm run start]: exit status 1
+> nodejs@1.0.0 start
+> nodejs@1.0.0 start
+> node index.js
+Missing required environment variables
+command finished with error [sh -c npm run start]: exit status 1
+Missing required environment variables
+{"level":50,"time":1740602930831,"pid":151,"hostname":"localhost","err":{"type":"Error","message":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID","stack":"Error: Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID\n    at registerInboundRoutes (file:///home/runner/workspace/inbound-calls.js:9:11)\n    at start (file:///home/runner/workspace/index.js:30:11)\n    at file:///home/runner/workspace/index.js:48:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:122:5)"},"msg":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID"}
+command finished with error [sh -c npm run start]: exit status 1
+{"level":50,"time":1740602931677,"pid":179,"hostname":"localhost","err":{"type":"Error","message":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID","stack":"Error: Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID\n    at registerInboundRoutes (file:///home/runner/workspace/inbound-calls.js:9:11)\n    at start (file:///home/runner/workspace/index.js:30:11)\n    at file:///home/runner/workspace/index.js:48:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:122:5)"},"msg":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID"}
+> nodejs@1.0.0 start
+{"level":50,"time":1740602935029,"pid":208,"hostname":"localhost","err":{"type":"Error","message":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID","stack":"Error: Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID\n    at registerInboundRoutes (file:///home/runner/workspace/inbound-calls.js:9:11)\n    at start (file:///home/runner/workspace/index.js:30:11)\n    at file:///home/runner/workspace/index.js:48:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:122:5)"},"msg":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID"}
+> node index.js
+{"level":50,"time":1740602930284,"pid":122,"hostname":"localhost","err":{"type":"Error","message":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID","stack":"Error: Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID\n    at registerInboundRoutes (file:///home/runner/workspace/inbound-calls.js:9:11)\n    at start (file:///home/runner/workspace/index.js:30:11)\n    at file:///home/runner/workspace/index.js:48:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:122:5)"},"msg":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID"}
+> node index.js
+command finished with error [sh -c npm run start]: exit status 1
+> nodejs@1.0.0 start
+Missing required environment variables
+command finished with error [sh -c npm run start]: exit status 1
+> node index.js
+{"level":50,"time":1740602939728,"pid":236,"hostname":"localhost","err":{"type":"Error","message":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID","stack":"Error: Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID\n    at registerInboundRoutes (file:///home/runner/workspace/inbound-calls.js:9:11)\n    at start (file:///home/runner/workspace/index.js:30:11)\n    at file:///home/runner/workspace/index.js:48:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:122:5)"},"msg":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID"}
+> node index.js
+> nodejs@1.0.0 start
+Missing required environment variables
+command finished with error [sh -c npm run start]: exit status 1
+{"level":50,"time":1740602948529,"pid":265,"hostname":"localhost","err":{"type":"Error","message":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID","stack":"Error: Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID\n    at registerInboundRoutes (file:///home/runner/workspace/inbound-calls.js:9:11)\n    at start (file:///home/runner/workspace/index.js:30:11)\n    at file:///home/runner/workspace/index.js:48:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:122:5)"},"msg":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID"}
+Missing required environment variables
+> nodejs@1.0.0 start
+{"level":50,"time":1740602954933,"pid":293,"hostname":"localhost","err":{"type":"Error","message":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID","stack":"Error: Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID\n    at registerInboundRoutes (file:///home/runner/workspace/inbound-calls.js:9:11)\n    at start (file:///home/runner/workspace/index.js:30:11)\n    at file:///home/runner/workspace/index.js:48:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:122:5)"},"msg":"Missing ELEVENLABS_API_KEY or ELEVENLABS_AGENT_ID"}
+> node index.js
+command finished with error [sh
